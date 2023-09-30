@@ -1,5 +1,5 @@
 # coding_club
-this is my first repository
+This is my first repository
 <br>
-my name is kaushal
+Author - Kaushal Jha
 </br>
